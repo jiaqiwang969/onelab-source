@@ -1,0 +1,11 @@
+Plugin(NewView).View=-1;
+Plugin(NewView).Dimension=1;
+Plugin(NewView).Run;
+
+Plugin(MathEval).Expression0="1e7*Exp(-1e4*((x-0.03)^2+(y-0.02)^2))";
+Plugin(MathEval).PhysicalRegion=111;
+Plugin(MathEval).Run;
+
+View[1].NormalRaise = 4e-05;
+
+Save View[1] "Q.pos";

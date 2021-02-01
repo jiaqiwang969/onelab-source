@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<models>
+	<model>
+		<title>Magnetometer</title>
+		<summary>3D model of a xylophone-bar magnetometer</summary>
+		<file type="pro">magnetometer.pro</file>
+		<preview type="png">infos.png</preview>
+		<url>https://gitlab.onelab.info/doc/models/wikis/Magnetometer</url>
+	</model>
+</models>

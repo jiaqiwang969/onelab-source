@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<models>
+	<model>
+		<title>Electromechanical relay</title>
+		<summary>2D model of an electro-mechanical relay</summary>
+		<file type="pro">relay.pro</file>
+		<preview type="png">infos.png</preview>
+		<url>https://gitlab.onelab.info/doc/models/wikis/Electromechanical-relay</url>
+	</model>
+</models>

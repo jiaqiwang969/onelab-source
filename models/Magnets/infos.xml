@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<models>
+	<model>
+		<title>Magnets</title>
+		<summary>3D force computation of a collection of magnets</summary>
+		<file type="pro">magnets.pro</file>
+		<preview type="png">infos.png</preview>
+		<url>https://gitlab.onelab.info/doc/models/wikis/Magnets</url>
+	</model>
+</models>

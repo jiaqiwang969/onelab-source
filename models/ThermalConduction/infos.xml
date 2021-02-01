@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<models>
+	<model>
+		<title>Thermal conduction</title>
+		<summary>Heat conduction after a transient heat flux pulse</summary>
+		<file type="pro">contact.pro</file>
+		<preview type="png">infos.png</preview>
+		<url>https://gitlab.onelab.info/doc/models/wikis/Thermal-conduction</url>
+	</model>
+</models>

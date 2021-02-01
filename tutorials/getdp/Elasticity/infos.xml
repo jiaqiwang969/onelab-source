@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<models>
+	<model>
+		<title>Elastic wrench</title>
+		<summary>2D plane stress elastic problem</summary>
+		<file type="pro">wrench2D.pro</file>
+		<preview type="png">infos.png</preview>
+		<url>https://gitlab.onelab.info/doc/tutorials/wikis/Elasticity</url>
+	</model>
+</models>
